@@ -1,0 +1,56 @@
+Simon
+HTML, CSS, and JS
+
+<======= * * * =======>
+
+Minimum Requirements
+
+------
+
+Everything should have REALLY NICE indentation!
+
+Your HTML should have
+• divs (don't use tables)
+• classes and ids (don't use inline styles)
+
+Your CSS should have:
+• basic styles that match the "classic" Simon look
+  > green button
+  > red button
+  > blue button
+  > yellow button
+
+Your JS should have:
+• a main game loop
+• functions for each task
+
+<======= * * * =======>
+
+Project Phases
+
+------
+
+Phase 1: HTML & CSS
+• Write the HTML
+• Style like the example using CSS
+
+Phase 2: Flashing a Sequence of Colors
+• Create a Test Sequence utilizing timing functions in JS
+• Flashing Buttons in Sequence
+
+Phase 3: Accepting User Input
+• Plan and Execute Click Event Handlers
+
+Phase 4: Game Utilities (If not previously addressed)
+• Begin the Game with a Random Color
+• Add a Random Color to the Sequence
+• When user clicks, make button flash
+
+Phase 5: End Game
+• Display a Game Over message with final score
+
+Additional Feature Ideas
+• Advanced Styles
+• Musical Tones
+• Disable Buttons after Game Over
+• Option to Start a New Game
